@@ -8,22 +8,21 @@ This is my personal practice workspace for **Automate the Boring Stuff with Pyth
 
 ## 📚 Chapter Completion Status
 
-### ✅ Completed Chapters (4)
+### ✅ Completed Chapters (6)
 
 - [x] Introduction
 - [x] Chapter 1 - Python Basics
 - [x] Chapter 2 - Flow Control
 - [x] Chapter 3 - Functions
 - [x] Chapter 4 - Lists
+- [x] Chapter 5 - Dictionaries and Structuring Data
 
 🔄 In Progress [1]
 
-- [ ] Chapter 5 - Dictionaries and Structuring Data *(current focus)*
+ - [ ] Chapter 6 - Manipulating Strings *(current focus)*
 
-📭 Pending Chapters (15)
+📭 Pending Chapters (14)
 
-
-- [ ] Chapter 6 - Manipulating Strings
 - [ ] Chapter 7 - Pattern Matching with Regular Expressions
 - [ ] Chapter 8 - Input Validation
 - [ ] Chapter 9 - Reading and Writing Files
